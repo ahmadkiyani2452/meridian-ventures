@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Ventures",
+  "description": "Corporate website for Meridian Ventures, a modern real estate development company in Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
